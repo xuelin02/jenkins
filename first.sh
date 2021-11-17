@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello rainbow unicorns!"
+echo "fellow unicorns, to find gold, get across the rainbow! gogo!"
